@@ -1,0 +1,8 @@
+.app {
+    height: 100%;
+    display: flex;
+}
+button {
+    /* 根据视口大小动态计算并设置按钮的字体大小 */
+    font-size: calc(10px + 2vmin);
+}

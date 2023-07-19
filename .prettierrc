@@ -4,11 +4,7 @@
   "singleQuote": true,
   "overrides": [
     {
-      "files": [
-        "**/*.css",
-        "**/*.scss",
-        "**/*.html"
-      ],
+      "files": ["**/*.css", "**/*.scss", "**/*.html"],
       "options": {
         "singleQuote": false
       }
@@ -20,6 +16,6 @@
   "proseWrap": "never",
   "htmlWhitespaceSensitivity": "strict",
   "vueIndentScriptAndStyle": false,
-  "endOfLine": "auto",
+  "endOfLine": "lf",
   "singleAttributePerLine": true
 }

@@ -1,0 +1,12 @@
+body {
+    margin:0; /* 取消页面主体的默认外边距 */
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    /*反锯齿*/
+    -webkit-font-smoothing: antialiased;
+    /*灰度平滑*/
+    -moz-osx-font-smoothing: grayscale;
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

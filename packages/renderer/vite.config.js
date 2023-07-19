@@ -1,5 +1,4 @@
 /* eslint-env node */
-
 import {chrome} from '../../.electron-vendors.cache.json';
 import vue from '@vitejs/plugin-vue';
 import {renderer} from 'unplugin-auto-expose';
